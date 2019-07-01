@@ -1,12 +1,3 @@
-%---
-%layout: post
-%title: A Great First Post
-%---
-
-This is it!
-What a wonderful post!
-
-
 ---
 title: Test post
 author: Test author
