@@ -4,6 +4,6 @@ layout: default
 
 # [About](about.md)
 
-# [Posts](./another-page.html).
+# [Posts](./another-page.html)
 
 
