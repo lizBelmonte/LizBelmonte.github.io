@@ -6,6 +6,5 @@ layout: default
 
 # [Proyectos](./another-page.html)
 
-#
 
 
