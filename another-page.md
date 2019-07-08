@@ -1,9 +1,9 @@
 ---
-layout: posts
+layout: post
+title: A Great First Post
 ---
 
-## Welcome to another page
-
-_yay_
+This is it!
+What a wonderful post!
 
 [back](./)
