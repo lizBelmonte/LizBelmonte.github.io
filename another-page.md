@@ -1,10 +1,7 @@
 ---
 layout: post
 title: A Great First Post
-categories: NLP
 ---
-
-
 
 
 Estamos trabajando en agregar contenido, pero...
