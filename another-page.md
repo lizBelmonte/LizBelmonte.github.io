@@ -5,6 +5,6 @@ categories: NLP
 ---
 
 Por el momento
-[Sitio en construcción](docs/sitio-en-construccion-1024x640.jpg)
+(docs/sitio-en-construccion-1024x640.jpg)
 
 [back](./)
