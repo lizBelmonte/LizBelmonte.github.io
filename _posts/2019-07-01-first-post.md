@@ -1,10 +1,7 @@
 ---
-title: Test post
-author: Test author
-tags:
-  - test
-  - testing
 layout: post
+title: A Great First Post
 ---
 
-Test content
+This is it!
+What a wonderful post!
