@@ -4,7 +4,7 @@ layout: default
 
 # [About](about.md)
 
-# [Proyectos](./another-page.html)
+# [Proyectos](./another-page.md)
 
 
 
