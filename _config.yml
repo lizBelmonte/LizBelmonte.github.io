@@ -4,6 +4,10 @@ description: Data Science Page.
 show_downloads: true
 google_analytics:
 
+# Social Sharing
+twitter:
+  username               :@lizbelmonte
+
 # Defaults
 defaults:
   # _posts
